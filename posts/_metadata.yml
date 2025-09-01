@@ -1,6 +1,5 @@
 # Applies to all posts
 title-block-banner: true
-categories: [post]
 format:
   html:
     toc: true

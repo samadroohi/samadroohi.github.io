@@ -6,32 +6,7 @@ website:
   title: "Samad Roohi — RL · NLP · ML · UQ"
   description: "Weekly deep dives on reinforcement learning, NLP, ML, and uncertainty quantification."
   site-url: https://samadroohi.github.io/samadroohi.github.io/
-  navbar:
-    left:
-      - text: Home
-        href: index.qmd
-      - text: Posts
-        href: posts/index.qmd
-      - text: RL Series
-        href: posts/rl/index.qmd
-      - text: NLP
-        href: posts/nlp/index.qmd
-      - text: ML
-        href: posts/ml/index.qmd
-      - text: UQ
-        href: posts/uq/index.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Honors
-        href: honors.qmd
-      - text: About
-        href: about.qmd
-      - text: Contact
-        href: contact.qmd
-    right:
-      - icon: github
-        aria-label: GitHub
-        href: https://github.com/samadroohi/samadroohi.github.io
+
 
   sidebar:
     collapse-level: 1
