@@ -57,7 +57,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     toc: true
     code-copy: true
     highlight-style: github
