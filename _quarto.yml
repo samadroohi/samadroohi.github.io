@@ -37,6 +37,7 @@ format:
     code-copy: true
     highlight-style: github
     smooth-scroll: true
+    navbar: false
     include-in-header:
       text: |
         <meta name="robots" content="index,follow" />

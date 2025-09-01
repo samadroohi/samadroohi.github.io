@@ -1,5 +1,4 @@
 # Applies to all posts
-title-block-banner: true
 format:
   html:
     toc: true
