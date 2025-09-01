@@ -1,0 +1,23 @@
+---
+title: "RL Exploration #2 — ε-greedy vs Thompson Sampling"
+description: "Hands-on comparison with bandit simulation."
+date: 2025-09-08
+categories: [RL, Exploration]
+tags: [epsilon-greedy, thompson-sampling, bandits]
+image: static/rl-02-card.png
+draft: false
+---
+
+## Setup
+
+- Synthetic rewards; stationary vs non-stationary.
+
+## Results
+
+- Cumulative reward, regret; sensitivity to hyperparameters.
+
+## What to try next
+
+- Contextual bandits; priors; batched exploration.
+
+> 💬 Questions or suggestions? Leave a comment below or **[contact me](../../../contact.qmd)**. 

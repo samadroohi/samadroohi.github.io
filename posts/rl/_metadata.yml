@@ -1,0 +1,8 @@
+# Defaults for RL series
+categories: [RL]
+series: "Foundations of RL: Exploration"
+listing:
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true 

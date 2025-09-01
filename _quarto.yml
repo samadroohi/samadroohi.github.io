@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Samad Roohi — RL · NLP · ML · UQ"
+  description: "Weekly deep dives on reinforcement learning, NLP, ML, and uncertainty quantification."
+  site-url: https://samadroohi.github.io/samadroohi.github.io/
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Posts
+        href: posts/index.qmd
+      - text: RL Series
+        href: posts/rl/index.qmd
+      - text: NLP
+        href: posts/nlp/index.qmd
+      - text: ML
+        href: posts/ml/index.qmd
+      - text: UQ
+        href: posts/uq/index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Honors
+        href: honors.qmd
+      - text: About
+        href: about.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/samadroohi/samadroohi.github.io
+
+  sidebar:
+    collapse-level: 1
+    contents:
+      - section: "Series & Topics"
+        contents:
+          - posts/rl/index.qmd
+          - posts/nlp/index.qmd
+          - posts/ml/index.qmd
+          - posts/uq/index.qmd
+
+  page-footer:
+    left: "© {{< var year >}} Samad Roohi"
+    right:
+      - text: "RSS"
+        href: posts/index.xml
+      - text: "Email"
+        href: "mailto:samad.roohi@domain.com"
+      - text: "GitHub"
+        href: "https://github.com/samadroohi"
+
+  comments:
+    giscus:
+      repo: samadroohi/samadroohi.github.io
+      category: Announcements
+      mapping: pathname
+      reactions-enabled: true
+      input-position: top
+      theme: light
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    highlight-style: github
+    smooth-scroll: true
+    include-in-header:
+      text: |
+        <meta name="robots" content="index,follow" />
+        <meta property="og:type" content="website" />
+    include-after-body:
+      text: |
+        <!-- Simple contact link in footer already provided -->
+
+execute:
+  freeze: auto
+
+metadata-files:
+  - posts/_metadata.yml
+
+profile:
+  default: "default" 

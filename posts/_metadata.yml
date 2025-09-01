@@ -1,0 +1,9 @@
+# Applies to all posts
+title-block-banner: true
+categories: [post]
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    fig-cap-location: bottom
+    df-print: kable 

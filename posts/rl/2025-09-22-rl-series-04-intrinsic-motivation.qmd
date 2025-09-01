@@ -1,0 +1,27 @@
+---
+title: "RL Exploration #4 — Intrinsic Motivation & Curiosity"
+description: "Beyond reward signals: exploring for the sake of learning."
+date: 2025-09-22
+categories: [RL, Exploration]
+tags: [intrinsic-motivation, curiosity, exploration]
+image: static/rl-04-card.png
+draft: false
+---
+
+## What is intrinsic motivation?
+
+- Learning progress, prediction error, and novelty.
+
+## Curiosity-driven methods
+
+- ICM, RND, and other curiosity algorithms.
+
+## Implementation
+
+- Building a curiosity-driven agent.
+
+## Results and discussion
+
+- When curiosity helps and when it doesn't.
+
+> 💬 Questions or suggestions? Leave a comment below or **[contact me](../../../contact.qmd)**. 

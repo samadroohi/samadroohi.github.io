@@ -1,0 +1,21 @@
+name: Quarto Publish
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - run: pip install -r requirements.txt || true
+      - run: quarto render
+      - uses: quarto-dev/quarto-actions/publish@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          target: gh-pages 

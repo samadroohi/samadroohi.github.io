@@ -1,0 +1,11 @@
+---
+title: "Welcome"
+image: static/og-card.png
+---
+
+**Weekly deep dives** on **Reinforcement Learning**, **NLP**, **Machine Learning**, and **Uncertainty Quantification**.
+
+- Start with the **[RL Exploration Series](posts/rl/index.qmd)**.
+- Browse all **[Posts](posts/index.qmd)** or jump to **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**.
+
+> 👋 Questions or feedback? Comment below each post or **[contact me](contact.qmd)**. 

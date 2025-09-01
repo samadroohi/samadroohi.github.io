@@ -1,0 +1,27 @@
+---
+title: "RL Exploration #3 — Upper Confidence Bound (UCB)"
+description: "Theoretical foundations and practical implementation of UCB bandits."
+date: 2025-09-15
+categories: [RL, Exploration]
+tags: [ucb, bandits, confidence-bounds]
+image: static/rl-03-card.png
+draft: false
+---
+
+## UCB Theory
+
+- Confidence intervals and optimism in the face of uncertainty.
+
+## Implementation
+
+- UCB1 algorithm and variants.
+
+## Experiments
+
+- Regret analysis and comparison with other methods.
+
+## When to use UCB
+
+- Advantages and limitations.
+
+> 💬 Questions or suggestions? Leave a comment below or **[contact me](../../../contact.qmd)**. 

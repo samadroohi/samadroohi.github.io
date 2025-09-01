@@ -1,0 +1,27 @@
+---
+title: "<Concise, compelling title>"
+description: "<<=160 char summary>"
+date: 2025-09-xx
+categories: [RL]        # or NLP/ML/UQ
+tags: [<method>, <topic>]
+image: static/<card>.png
+draft: false
+# series: "Foundations of RL: Exploration"  # include if part of a series
+---
+
+## TL;DR
+One-paragraph summary + key figure.
+
+## Problem
+Context, assumptions, related work (cite [@paper2024]).
+
+## Method/Experiment
+Minimal, reproducible code and figures.
+
+## Results
+Plots, metrics, brief discussion.
+
+## Takeaways
+When to use, pitfalls, links to code & data.
+
+> 💬 Comments welcome below or reach out via **[contact](../../contact.qmd)**. 

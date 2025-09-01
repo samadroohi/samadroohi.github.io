@@ -1,0 +1,14 @@
+---
+title: "Contact"
+---
+
+- **Email:** [samad.roohi@domain.com](mailto:samad.roohi@domain.com)
+- **GitHub Issues/Discussions:** Use the comment box beneath any post.
+
+Optional form (Formspree example):
+
+<form action="https://formspree.io/f/<your-id>" method="POST">
+  <label>Your email:<br/><input type="email" name="email" required></label><br/>
+  <label>Your message:<br/><textarea name="message" rows="6" required></textarea></label><br/>
+  <button type="submit">Send</button>
+</form> 

@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+Short introduction, research interests (NLP, RL, UQ), and current affiliations.
+
+- **Email:** samad.roohi@domain.com
+- **GitHub:** <https://github.com/samadroohi>
+- **Google Scholar / ORCID:** links here
+
+I publish weekly deep dives and maintain code snippets for reproducibility. 
