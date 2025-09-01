@@ -24,4 +24,4 @@ Plots, metrics, brief discussion.
 ## Takeaways
 When to use, pitfalls, links to code & data.
 
-> 💬 Comments welcome below or reach out via **[contact](../../contact.qmd)**. 
+> 💬 Comments welcome below or reach out via **[contact](contact.qmd)**. 
