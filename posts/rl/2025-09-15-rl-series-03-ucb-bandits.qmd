@@ -23,4 +23,4 @@ draft: false
 
 - Advantages and limitations.
 
-> 💬 Questions or suggestions? Leave a comment below or **[contact me](../../../contact.qmd)**. 
+> 💬 Questions or suggestions? **[Contact me](../../../contact.qmd)**. 

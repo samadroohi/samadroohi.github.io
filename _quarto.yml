@@ -53,14 +53,7 @@ website:
       - text: "GitHub"
         href: "https://github.com/samadroohi"
 
-  comments:
-    giscus:
-      repo: samadroohi/samadroohi.github.io
-      category: Announcements
-      mapping: pathname
-      reactions-enabled: true
-      input-position: top
-      theme: light
+
 
 format:
   html:
