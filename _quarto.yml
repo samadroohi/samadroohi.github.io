@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Samad Roohi — RL · NLP · ML · UQ"
+  title: "Samad Roohi"
   description: "Weekly deep dives on reinforcement learning, NLP, ML, and uncertainty quantification."
   site-url: https://samadroohi.github.io/samadroohi.github.io/
 
