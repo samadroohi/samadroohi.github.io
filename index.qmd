@@ -1,6 +1,5 @@
 ---
 title: "Welcome"
-image: static/og-card.png
 ---
 
 **Weekly deep dives** on **Reinforcement Learning**, **NLP**, **Machine Learning**, and **Uncertainty Quantification**.

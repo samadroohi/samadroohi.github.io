@@ -4,7 +4,6 @@ description: "Beyond reward signals: exploring for the sake of learning."
 date: 2025-09-22
 categories: [RL, Exploration]
 tags: [intrinsic-motivation, curiosity, exploration]
-image: static/rl-04-card.png
 draft: false
 ---
 

@@ -4,7 +4,6 @@ description: "Theoretical foundations and practical implementation of UCB bandit
 date: 2025-09-15
 categories: [RL, Exploration]
 tags: [ucb, bandits, confidence-bounds]
-image: static/rl-03-card.png
 draft: false
 ---
 

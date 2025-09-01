@@ -2,6 +2,12 @@ project:
   type: website
   output-dir: _site
 
+date: today
+date-format: "YYYY"
+
+_variables:
+  year: "2025"
+
 website:
   title: "Samad Roohi — RL · NLP · ML · UQ"
   description: "Weekly deep dives on reinforcement learning, NLP, ML, and uncertainty quantification."

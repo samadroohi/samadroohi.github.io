@@ -4,7 +4,6 @@ description: "Hands-on comparison with bandit simulation."
 date: 2025-09-08
 categories: [RL, Exploration]
 tags: [epsilon-greedy, thompson-sampling, bandits]
-image: static/rl-02-card.png
 draft: false
 ---
 

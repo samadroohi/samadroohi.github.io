@@ -4,7 +4,6 @@ description: "Intuition, taxonomy, and when each method shines."
 date: 2025-09-01
 categories: [RL, Exploration]
 tags: [overview, bandits, MDP]
-image: static/rl-01-card.png
 draft: false
 ---
 
