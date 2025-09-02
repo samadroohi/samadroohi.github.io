@@ -14,18 +14,11 @@ title: "Coming Soon"
 This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification.
 </div>
 
-<div class="divider"></div>
-
-<div class="contact-section">
-<div class="contact-title">Get in Touch</div>
-
 <div class="contact-links">
 <a href="mailto:samad.roohi@gmail.com" class="contact-link">Email</a>
 <a href="https://linkedin.com/in/samad-roohi-821a4b44" class="contact-link">LinkedIn</a>
 <a href="https://twitter.com/samad_ro" class="contact-link">Twitter</a>
 <a href="https://github.com/samadroohi" class="contact-link">GitHub</a>
-</div>
-
 </div>
 
 </div>
