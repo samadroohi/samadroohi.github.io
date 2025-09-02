@@ -2,7 +2,7 @@
 title: "Welcome"
 ---
 
-**Weekly deep dives** on **Reinforcement Learning**, **NLP**, **Machine Learning**, and **Uncertainty Quantification**.
+**Weekly ** deep dives on **ML**, **NLP**, **RL** and **UQ**.
 
 - Start with the **[RL Exploration Series](posts/rl/index.qmd)**.
 - Browse all **[Posts](posts/index.qmd)** or jump to **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**.
