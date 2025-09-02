@@ -25,7 +25,11 @@ jobs:
         with:
           python-version: '3.11'
           
-      - name: Install Python ire-pages@v4
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt || true
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
         
       - name: Render Quarto
         run: quarto render
