@@ -1,27 +1,37 @@
 ---
-title: "<Concise, compelling title>"
-description: "<<=160 char summary>"
-date: 2025-09-xx
-categories: [RL]        # or NLP/ML/UQ
-tags: [<method>, <topic>]
-image: static/<card>.png
+title: "Weekly Insight: [Topic]"
+description: "[Brief description of the insight]"
+date: 2025-01-XX
+tags: [insight, weekly, AI, research]
 draft: false
-# series: "Foundations of RL: Exploration"  # include if part of a series
 ---
 
 ## TL;DR
-One-paragraph summary + key figure.
 
-## Problem
-Context, assumptions, related work (cite [@paper2024]).
+[One-paragraph summary of the key insight]
 
-## Method/Experiment
-Minimal, reproducible code and figures.
+## The Insight
 
-## Results
-Plots, metrics, brief discussion.
+[Main content - what you discovered, learned, or want to share]
 
-## Takeaways
-When to use, pitfalls, links to code & data.
+## Why This Matters
 
-> 💬 Questions or suggestions? **[Contact me](contact.qmd)**. 
+[Context and importance]
+
+## Practical Applications
+
+[How this can be applied]
+
+## Further Reading
+
+- [Link 1]
+- [Link 2]
+- [Paper reference]
+
+## What's Next
+
+[Follow-up thoughts or next week's topic]
+
+---
+
+> 💡 **Questions or thoughts?** [Contact me](contact.qmd) or connect on [Twitter](https://twitter.com/samad_ro).

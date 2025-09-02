@@ -1,55 +1,26 @@
 ---
 title: "About"
-subtitle: "Research & Academic Profile"
 ---
 
-## Research Interests
+## Research Focus
 
-I am a researcher focused on advancing the frontiers of **Machine Learning** and **Artificial Intelligence**, with particular emphasis on:
+I'm a researcher working on **Natural Language Processing**, **Reinforcement Learning**, and **Uncertainty Quantification**.
 
-### Natural Language Processing
-- Large language models and their applications
-- Text understanding and generation
-- Multilingual and cross-lingual learning
-- Ethical AI and bias mitigation
+## Weekly Insights
 
-### Reinforcement Learning  
-- Exploration-exploitation strategies
-- Multi-agent systems and game theory
-- Deep reinforcement learning applications
-- Sample efficiency and transfer learning
+This blog shares weekly insights on:
+- Latest AI research developments
+- Practical applications and implementations
+- Technical deep dives and tutorials
+- Industry trends and academic papers
 
-### Uncertainty Quantification
-- Model calibration and reliability
-- Robustness in machine learning systems
-- Conformal prediction and confidence intervals
-- Safe AI and risk assessment
-
-## Academic Background
-
-*[Add your educational background, current affiliations, and research positions here]*
-
-## Research Philosophy
-
-My approach to research emphasizes:
-- **Rigorous methodology** and reproducible results
-- **Practical applications** with real-world impact
-- **Interdisciplinary collaboration** across domains
-- **Open science** and knowledge sharing
-
-## Contact & Collaboration
-
-I welcome opportunities for:
-- Research collaboration
-- Academic discussions
-- Industry partnerships
-- Student mentoring
+## Contact
 
 **Email:** [samad.roohi@gmail.com](mailto:samad.roohi@gmail.com)  
-**GitHub:** [github.com/samadroohi](https://github.com/samadroohi)  
 **LinkedIn:** [linkedin.com/in/samad-roohi-821a4b44](https://linkedin.com/in/samad-roohi-821a4b44)  
-**Twitter:** [@samad_ro](https://twitter.com/samad_ro)
+**Twitter:** [@samad_ro](https://twitter.com/samad_ro)  
+**GitHub:** [github.com/samadroohi](https://github.com/samadroohi)
 
 ---
 
-*This blog serves as a platform for sharing research insights, technical tutorials, and academic discussions. All opinions expressed are my own.*
+*Weekly insights on AI research and practical applications.*

@@ -1,32 +1,28 @@
 ---
-title: "Welcome"
-subtitle: "Research & Academic Blog"
+title: "Samad Roohi"
+subtitle: "Weekly Insights on AI & Research"
 ---
 
-<div class="academic-intro">
+<div class="hero-section">
 
-**Welcome to my research blog** where I share insights, findings, and thoughts on **Natural Language Processing**, **Reinforcement Learning**, and **Uncertainty Quantification**.
+# Welcome to My Research Blog
+
+**Weekly deep dives into the latest developments in AI, Machine Learning, and Research**
+
+---
+
+## Latest Insights
+
+*[Your weekly insights will appear here]*
 
 ## Research Focus
 
-My work spans across several key areas of machine learning and artificial intelligence:
-
-- **🧠 Natural Language Processing**: Language models, text understanding, and generation
-- **🎯 Reinforcement Learning**: Exploration strategies, multi-agent systems, and decision making  
-- **📊 Uncertainty Quantification**: Calibration, robustness, and reliable AI systems
-
-## Recent Work
-
-- Start with the **[RL Exploration Series](posts/rl/index.qmd)** for practical insights into exploration methods
-- Browse **[All Posts](posts/index.qmd)** or explore specific areas: **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**
-
-## Academic Resources
-
-- **[Publications](publications.qmd)** - Research papers and contributions
-- **[Honors & Awards](honors.qmd)** - Recognition and achievements
+- **🧠 Natural Language Processing** - Language models, understanding, and generation
+- **🎯 Reinforcement Learning** - Exploration, decision making, and multi-agent systems  
+- **📊 Uncertainty Quantification** - Reliability, calibration, and robust AI
 
 ---
 
-> 💡 **Questions or collaboration opportunities?** Feel free to **[contact me](contact.qmd)** or connect via the links below.
+> 💡 **Stay updated** with weekly insights on cutting-edge AI research and practical applications.
 
 </div>
