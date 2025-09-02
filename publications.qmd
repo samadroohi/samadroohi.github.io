@@ -1,6 +1,0 @@
----
-title: "Publications"
----
-
-- **[Title, Venue, Year]** — brief one-line summary. [PDF](#) · [Code](#) · [BibTeX](#)
-- ... 

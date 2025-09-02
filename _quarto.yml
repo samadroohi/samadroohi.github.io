@@ -7,68 +7,21 @@ website:
   description: "Weekly deep dives on NLP, RL and UQ."
   site-url: https://samadroohi.github.io/samadroohi.github.io/
 
-  sidebar:
-    collapse-level: 1
-    contents:
-      - section: "Research Areas"
-        contents:
-          - posts/rl/index.qmd
-          - posts/nlp/index.qmd
-          - posts/ml/index.qmd
-          - posts/uq/index.qmd
-      - section: "Academic"
-        contents:
-          - publications.qmd
-          - honors.qmd
-      - section: "About"
-        contents:
-          - about.qmd
-          - contact.qmd
-
-  page-footer:
-    left: "© 2025 Samad Roohi"
-    right:
-      - text: "RSS"
-        href: posts/index.xml
-      - text: "Email"
-        href: "mailto:samad.roohi@gmail.com"
-      - text: "GitHub"
-        href: "https://github.com/samadroohi"
-      - text: "LinkedIn"
-        href: "https://linkedin.com/in/samad-roohi-821a4b44"
-      - text: "Twitter"
-        href: "https://twitter.com/samad_ro"
-
 format:
   html:
     theme: flatly
-    toc: true
-    toc-depth: 3
-    code-copy: true
-    highlight-style: github
-    smooth-scroll: true
     navbar: false
-    fig-cap-location: bottom
-    df-print: kable
-    css: styles.css
+    toc: false
     include-in-header:
       text: |
         <meta name="robots" content="index,follow" />
         <meta property="og:type" content="website" />
         <meta name="author" content="Samad Roohi" />
-        <meta name="keywords" content="machine learning, reinforcement learning, natural language processing, uncertainty quantification, research, academic" />
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-    include-after-body:
-      text: |
-        <!-- Academic footer enhancement -->
-
-execute:
-  freeze: auto
-
-metadata-files:
-  - posts/_metadata.yml
-
-profile:
-  default: "default"
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <style>
+          body { font-family: 'Inter', sans-serif; }
+          h1 { color: #2c3e50; }
+          h2 { color: #34495e; }
+        </style>

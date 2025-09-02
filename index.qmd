@@ -1,32 +1,24 @@
 ---
-title: "Welcome"
-subtitle: "Research & Academic Blog"
+title: "Coming Soon"
 ---
 
-<div class="academic-intro">
+<div style="text-align: center; padding: 4rem 2rem; font-family: 'Inter', sans-serif;">
 
-**Welcome to my research blog** where I share insights, findings, and thoughts on **Natural Language Processing**, **Reinforcement Learning**, and **Uncertainty Quantification**.
+# 🚀 Coming Soon
 
-## Research Focus
+## Samad Roohi's Research Blog
 
-My work spans across several key areas of machine learning and artificial intelligence:
-
-- **🧠 Natural Language Processing**: Language models, text understanding, and generation
-- **🎯 Reinforcement Learning**: Exploration strategies, multi-agent systems, and decision making  
-- **📊 Uncertainty Quantification**: Calibration, robustness, and reliable AI systems
-
-## Recent Work
-
-- Start with the **[RL Exploration Series](posts/rl/index.qmd)** for practical insights into exploration methods
-- Browse **[All Posts](posts/index.qmd)** or explore specific areas: **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**
-
-## Academic Resources
-
-- **[Publications](publications.qmd)** - Research papers and contributions
-- **[Honors & Awards](honors.qmd)** - Recognition and achievements
+**Weekly deep dives on NLP, RL and UQ**
 
 ---
 
-> 💡 **Questions or collaboration opportunities?** Feel free to **[contact me](contact.qmd)** or connect via the links below.
+*This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification.*
+
+### Contact
+
+**Email:** [samad.roohi@gmail.com](mailto:samad.roohi@gmail.com)  
+**LinkedIn:** [linkedin.com/in/samad-roohi-821a4b44](https://linkedin.com/in/samad-roohi-821a4b44)  
+**Twitter:** [@samad_ro](https://twitter.com/samad_ro)  
+**GitHub:** [github.com/samadroohi](https://github.com/samadroohi)
 
 </div>

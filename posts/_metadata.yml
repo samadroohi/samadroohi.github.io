@@ -1,7 +1,0 @@
-# Applies to all posts
-format:
-  html:
-    toc: true
-    toc-depth: 3
-    fig-cap-location: bottom
-    df-print: kable 
