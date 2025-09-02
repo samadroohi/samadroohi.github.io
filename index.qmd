@@ -1,10 +1,32 @@
 ---
 title: "Welcome"
+subtitle: "Research & Academic Blog"
 ---
 
-**Weekly ** deep dives on **ML**, **NLP**, **RL** and **UQ**.
+<div class="academic-intro">
 
-- Start with the **[RL Exploration Series](posts/rl/index.qmd)**.
-- Browse all **[Posts](posts/index.qmd)** or jump to **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**.
+**Welcome to my research blog** where I share insights, findings, and thoughts on **Natural Language Processing**, **Reinforcement Learning**, and **Uncertainty Quantification**.
 
-> 👋 Questions or feedback? Comment below each post or **[contact me](contact.qmd)**. 
+## Research Focus
+
+My work spans across several key areas of machine learning and artificial intelligence:
+
+- **🧠 Natural Language Processing**: Language models, text understanding, and generation
+- **🎯 Reinforcement Learning**: Exploration strategies, multi-agent systems, and decision making  
+- **📊 Uncertainty Quantification**: Calibration, robustness, and reliable AI systems
+
+## Recent Work
+
+- Start with the **[RL Exploration Series](posts/rl/index.qmd)** for practical insights into exploration methods
+- Browse **[All Posts](posts/index.qmd)** or explore specific areas: **[NLP](posts/nlp/index.qmd)**, **[ML](posts/ml/index.qmd)**, **[UQ](posts/uq/index.qmd)**
+
+## Academic Resources
+
+- **[Publications](publications.qmd)** - Research papers and contributions
+- **[Honors & Awards](honors.qmd)** - Recognition and achievements
+
+---
+
+> 💡 **Questions or collaboration opportunities?** Feel free to **[contact me](contact.qmd)** or connect via the links below.
+
+</div>
