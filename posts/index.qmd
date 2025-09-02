@@ -1,12 +1,29 @@
 ---
-title: "All Posts"
+title: "Weekly Insights"
+description: "Weekly deep dives into AI research and practical applications"
+page-layout: full
 listing:
-  contents: .
+  contents: posts
   sort: "date desc"
   type: default
-  categories: true
-  feed: true
-page-layout: article
+  categories: false
+  fields: [title, description, date]
+  filter-ui: [title, date]
+  page-size: 10
+title-block-banner: true
 ---
 
-Browse the latest posts across RL, NLP, ML, and UQ. 
+# Weekly Insights
+
+Welcome to my weekly insights on AI, Machine Learning, and Research. Each week, I share deep dives into the latest developments, practical applications, and technical insights from the world of artificial intelligence.
+
+## What to Expect
+
+- **Latest Research**: Analysis of recent papers and breakthroughs
+- **Practical Applications**: How to apply cutting-edge techniques
+- **Technical Deep Dives**: Code examples and implementation details
+- **Industry Trends**: What's happening in the AI landscape
+
+---
+
+*New insights every week. Stay updated with the latest in AI research.*

@@ -13,12 +13,6 @@ website:
       - section: "Weekly Insights"
         contents:
           - posts/index.qmd
-      - section: "Research Areas"
-        contents:
-          - posts/nlp/index.qmd
-          - posts/ml/index.qmd
-          - posts/rl/index.qmd
-          - posts/uq/index.qmd
       - section: "About"
         contents:
           - about.qmd
@@ -38,7 +32,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     toc: true
     toc-depth: 3
     code-copy: true
