@@ -11,25 +11,30 @@ website:
     right:
       - text: "Email"
         href: "mailto:samad.roohi@gmail.com"
+      - text: "LinkedIn"
+        href: "https://linkedin.com/in/samad-roohi-821a4b44"
+      - text: "Twitter"
+        href: "https://twitter.com/samad_ro"
       - text: "GitHub"
         href: "https://github.com/samadroohi"
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
-    toc: true
-    code-copy: true
+    toc: false
+    code-copy: false
     highlight-style: github
     smooth-scroll: true
     navbar: false
     include-in-header:
       text: |
-        <style>
-          body { font-family: 'Inter', sans-serif; background-color: #f8f9fa; color: #343a40; }
-          h1 { color: #007bff; }
-          h2 { color: #34495e; }
-        </style>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+        <meta name="robots" content="index,follow" />
+        <meta property="og:type" content="website" />
+        <meta name="author" content="Samad Roohi" />
 
 execute:
   freeze: auto

@@ -2,23 +2,34 @@
 title: "Coming Soon"
 ---
 
-<div style="text-align: center; padding: 4rem 2rem; font-family: 'Inter', sans-serif;">
+<div class="container">
 
-# 🚀 Coming Soon
+<div class="emoji">🚀</div>
+
+<div class="status-badge">Under Development</div>
+
+# Coming Soon
 
 ## Samad Roohi's Research Blog
 
-**Weekly deep dives on AI, Machine Learning, and Research**
+<div class="subtitle">Weekly deep dives on AI, Machine Learning, and Research</div>
 
----
+<div class="description">
+This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification<span class="loading-dots"></span>
+</div>
 
-*This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification.*
+<div class="divider"></div>
 
-### Contact
+<div class="contact-section">
+<div class="contact-title">Get in Touch</div>
 
-**Email:** [samad.roohi@gmail.com](mailto:samad.roohi@gmail.com)  
-**LinkedIn:** [linkedin.com/in/samad-roohi-821a4b44](https://linkedin.com/in/samad-roohi-821a4b44)  
-**Twitter:** [@samad_ro](https://twitter.com/samad_ro)  
-**GitHub:** [github.com/samadroohi](https://github.com/samadroohi)
+<div class="contact-links">
+<a href="mailto:samad.roohi@gmail.com" class="contact-link">Email</a>
+<a href="https://linkedin.com/in/samad-roohi-821a4b44" class="contact-link">LinkedIn</a>
+<a href="https://twitter.com/samad_ro" class="contact-link">Twitter</a>
+<a href="https://github.com/samadroohi" class="contact-link">GitHub</a>
+</div>
+
+</div>
 
 </div>
