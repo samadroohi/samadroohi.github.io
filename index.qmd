@@ -4,10 +4,6 @@ title: "Coming Soon"
 
 <div class="container">
 
-<div class="emoji">🚀</div>
-
-<div class="status-badge">Under Development</div>
-
 # Coming Soon
 
 ## Samad Roohi's Research Blog
@@ -15,7 +11,7 @@ title: "Coming Soon"
 <div class="subtitle">Weekly deep dives on AI, Machine Learning, and Research</div>
 
 <div class="description">
-This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification<span class="loading-dots"></span>
+This blog is currently under development. Check back soon for insights on Natural Language Processing, Reinforcement Learning, and Uncertainty Quantification.
 </div>
 
 <div class="divider"></div>
