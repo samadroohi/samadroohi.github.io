@@ -4,7 +4,6 @@ title: "Coming Soon"
 
 <div class="container">
 
-# Coming Soon
 
 ## Samad Roohi's Research Blog
 
