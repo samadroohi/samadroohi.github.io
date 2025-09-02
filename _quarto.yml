@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Samad Roohi"
-  description: "Weekly deep dives on reinforcement learning, NLP, ML, and uncertainty quantification."
+  description: "Weekly deep dives on NLP, RL and UQ."
   site-url: https://samadroohi.github.io/samadroohi.github.io/
 
 
@@ -24,9 +24,13 @@ website:
       - text: "RSS"
         href: posts/index.xml
       - text: "Email"
-        href: "mailto:samad.roohi@domain.com"
+        href: "mailto:samad.roohi@gmail.com"
       - text: "GitHub"
         href: "https://github.com/samadroohi"
+      - text: "LinkedIn"
+        href: "https://linkedin.com/in/samad-roohi-821a4b44"
+      - text: "Twitter"
+        href: "https://twitter.com/samad_roohi"
 
 
 
