@@ -8,7 +8,7 @@ title: "Coming Soon"
 
 ## Samad Roohi's Research Blog
 
-**Weekly deep dives on NLP, RL and UQ**
+**Weekly deep dives on AI, Machine Learning, and Research**
 
 ---
 
@@ -22,4 +22,3 @@ title: "Coming Soon"
 **GitHub:** [github.com/samadroohi](https://github.com/samadroohi)
 
 </div>
-# Updated: Tue 02 Sep 2025 16:47:26 AEST
